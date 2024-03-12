@@ -1,0 +1,17 @@
+[
+    {
+        "Gender": "M",
+        "Email": "kim00@naver.com",
+        "Birthyear": "2000"
+    },
+    {
+        "Gender": "F",
+        "Email": "kim01@naver.com",
+        "Birthyear": "2001"
+    },
+    {
+        "Gender": "M",
+        "Email": "choi01@naver.com",
+        "Birthyear": "2001"
+    }
+]
